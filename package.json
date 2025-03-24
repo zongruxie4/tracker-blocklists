@@ -10,6 +10,6 @@
   "devDependencies": {
     "ajv": "^8.17.1",
     "chai": "^4.3.7",
-    "mocha": "^11.0.2"
+    "mocha": "^11.1.0"
   }
 }
