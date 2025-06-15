@@ -8,8 +8,8 @@
   "author": "DuckDuckGo",
   "license": "CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0)",
   "devDependencies": {
-    "ajv": "^8.12.0",
+    "ajv": "^8.17.1",
     "chai": "^4.3.7",
-    "mocha": "^10.2.0"
+    "mocha": "^11.1.0"
   }
 }
